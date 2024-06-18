@@ -1,0 +1,39 @@
+@page{
+    sice: A4;
+    margin: 20mm
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px rgba(122, 24, 24, 0.1);
+}
+
+.section-header {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.section-header h2 {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.section-header h3 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.section-content {
+    margin-bottom: 30px;
+}
+
+.list-unstyled li {
+    padding-bottom: 5px;
+}
